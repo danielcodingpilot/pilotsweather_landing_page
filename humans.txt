@@ -1,0 +1,8 @@
+/* TEAM */
+Developer: Daniel Coding Pilot
+GitHub: https://github.com/danielcodingpilot
+
+/* SITE */
+Standards: HTML5, CSS3, JavaScript, TypeScript
+Components: React, Vite
+Software: Visual Studio Code
