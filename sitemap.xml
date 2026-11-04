@@ -1,21 +1,2 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url>
-    <loc>https://danielcodingpilot.github.io/pilotsweather/</loc>
-    <lastmod>2024-01-07</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>1.0</priority>
-  </url>
-  <url>
-    <loc>https://danielcodingpilot.github.io/pilotsweather/#/privacy</loc>
-    <lastmod>2024-01-07</lastmod>
-    <changefreq>yearly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://danielcodingpilot.github.io/pilotsweather/#/terms</loc>
-    <lastmod>2024-01-07</lastmod>
-    <changefreq>yearly</changefreq>
-    <priority>0.5</priority>
-  </url>
-</urlset>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml"><url><loc>https://pilotsweather.codingpilot.de/</loc><xhtml:link rel="alternate" hreflang="en" href="https://pilotsweather.codingpilot.de/"/><xhtml:link rel="alternate" hreflang="de" href="https://pilotsweather.codingpilot.de/de/"/></url><url><loc>https://pilotsweather.codingpilot.de/de/</loc><xhtml:link rel="alternate" hreflang="en" href="https://pilotsweather.codingpilot.de/"/><xhtml:link rel="alternate" hreflang="de" href="https://pilotsweather.codingpilot.de/de/"/></url><url><loc>https://pilotsweather.codingpilot.de/support/</loc><xhtml:link rel="alternate" hreflang="en" href="https://pilotsweather.codingpilot.de/support/"/><xhtml:link rel="alternate" hreflang="de" href="https://pilotsweather.codingpilot.de/de/hilfe/"/></url><url><loc>https://pilotsweather.codingpilot.de/de/hilfe/</loc><xhtml:link rel="alternate" hreflang="en" href="https://pilotsweather.codingpilot.de/support/"/><xhtml:link rel="alternate" hreflang="de" href="https://pilotsweather.codingpilot.de/de/hilfe/"/></url><url><loc>https://pilotsweather.codingpilot.de/privacy/</loc><xhtml:link rel="alternate" hreflang="en" href="https://pilotsweather.codingpilot.de/privacy/"/><xhtml:link rel="alternate" hreflang="de" href="https://pilotsweather.codingpilot.de/de/datenschutz/"/></url><url><loc>https://pilotsweather.codingpilot.de/de/datenschutz/</loc><xhtml:link rel="alternate" hreflang="en" href="https://pilotsweather.codingpilot.de/privacy/"/><xhtml:link rel="alternate" hreflang="de" href="https://pilotsweather.codingpilot.de/de/datenschutz/"/></url><url><loc>https://pilotsweather.codingpilot.de/terms/</loc><xhtml:link rel="alternate" hreflang="en" href="https://pilotsweather.codingpilot.de/terms/"/><xhtml:link rel="alternate" hreflang="de" href="https://pilotsweather.codingpilot.de/de/nutzungsbedingungen/"/></url><url><loc>https://pilotsweather.codingpilot.de/de/nutzungsbedingungen/</loc><xhtml:link rel="alternate" hreflang="en" href="https://pilotsweather.codingpilot.de/terms/"/><xhtml:link rel="alternate" hreflang="de" href="https://pilotsweather.codingpilot.de/de/nutzungsbedingungen/"/></url><url><loc>https://pilotsweather.codingpilot.de/imprint/</loc><xhtml:link rel="alternate" hreflang="en" href="https://pilotsweather.codingpilot.de/imprint/"/><xhtml:link rel="alternate" hreflang="de" href="https://pilotsweather.codingpilot.de/de/impressum/"/></url><url><loc>https://pilotsweather.codingpilot.de/de/impressum/</loc><xhtml:link rel="alternate" hreflang="en" href="https://pilotsweather.codingpilot.de/imprint/"/><xhtml:link rel="alternate" hreflang="de" href="https://pilotsweather.codingpilot.de/de/impressum/"/></url></urlset>
